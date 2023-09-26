@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life
+# conway-game-of-life
 ##### How to play this game?
 
 Click on the grids to select the initial set of living cells. Click "start" to start the simulation. Click "Help" to see game rules and a set of example fun combinations.
